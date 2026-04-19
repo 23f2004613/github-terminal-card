@@ -1,0 +1,7 @@
+{
+  "name": "github-terminal-card",
+  "version": "1.0.0",
+  "description": "Live GitHub stats as a terminal-style SVG card",
+  "type": "module",
+  "engines": { "node": ">=18" }
+}
